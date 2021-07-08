@@ -1,24 +1,145 @@
-This is free and unencumbered software released into the public domain.
+{
+"name": "SPORT Gumpun",
+"author": "ใช้ชั่วคราว",
+"image": "https://sv1.picz.in.th/images/2021/07/08/saBgvN.png",
+"url": "http://homefile.ddns.net:8081",
+"stations": [
+                {
+              "name": "Premier HD1",
+               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+                "url": "https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8"       
+             },
+            {
+              "name": "Premier HD1 สำรอง",
+               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+                "url": "https://we-play.tv/watching/tv/true-premier-football-hd-1"       
+             },
+            {
+              "name": "Premier HD2",
+               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+                "url": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8"       
+             },
+{
+              "name": "Premier HD2 สำรอง",
+               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+                "url": "https://we-play.tv/watching/tv/true-premier-football-hd-2"       
+             },
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+    {
+              "name": "Premier HD3",
+               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
+                "url": "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8"       
+             },
+    {
+              "name": "Premier HD4",
+               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
+                "url": "https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8"       
+             },
+    
+  
+            {
+              "name": "Premier HD5",
+               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png",
+                "url": "https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8"       
+             },
+           
+    {
+              "name": "True Sport HD1",
+               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
+                "url": "https://mediasv.online/tvchannel_x1/hd-tsport1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjEgMjo1NDo0MSBBTSZoYXNoX3ZhbHVlPXc3ZmRRR1pHS1VOcmpZZ1FpdjhWRFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNTM5ODE="       
+             },
+            {
+              "name": "True Sport HD2",
+               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
+                "url": "https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8"       
+             },
+            {
+              "name": "True Sport HD3",
+               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
+                "url": "https://mediasv.online/tvchannel_x1/truesporthd3/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDIxIDEyOjIwOjE4IFBNJmhhc2hfdmFsdWU9M2V6L0VNLzB4aCtLaDVlVTRtWnYyUT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNSZpZD1jaF8zNzA0OA=="       
+             },
+    {
+              "name": "True Sport HD4",
+               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
+                "url": "https://sport.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8"       
+             },
+   
+    {
+              "name": "True Sport 5",
+               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png",
+                "url": "https://sport.livedoomovie.com/02_sport5_480p/chunklist.m3u8"       
+             },
+             {
+"name": "Fox Sports HD",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 2",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-2",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 3",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-3",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+{
+"name": "Bein Sports 1 TH",
+"image": "http://homefile.ddns.net:8081/pic/be1.png",
+"url": "https://www.we-play.tv/watching/tv/bein-sports-1",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+{
+"name": "Bein Sports 2 TH",  
+"image": "http://homefile.ddns.net:8081/pic/be2.png",  
+"url": "https://www.we-play.tv/watching/tv/bein-sports-2",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "DigiSport 1 RO",
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport1romania.png",
+"url": "https://www.warpfootball.games/live/?ch=digisport1romania"
+},
+{
+"name": "DigiSport 2 RO",
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport2romania.png",
+"url": "https://www.warpfootball.games/live/?ch=digisport2romania"
+},
+{
+"name": "DigiSport 3 RO",
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport3romania.png",
+"url": "https://www.warpfootball.games/live/?ch=digisport3romania"
+},
+{
+"name": "DigiSport 4 RO",
+"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport4romania.png",
+"url": "https://www.warpfootball.games/live/?ch=digisport4romania"
+},
+{
+"name": "NFL Network",
+"image": "https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz",
+"url": "https://we-play.tv/watching/tv/nfl-network",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Motor Vision",
+"image": "https://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
+"url": "https://we-play.tv/watching/tv/motor-vision",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
 
-For more information, please refer to <https://unlicense.org>
+]
+}
