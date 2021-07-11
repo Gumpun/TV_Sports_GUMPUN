@@ -1,10 +1,3 @@
-{
-"name": "SPORT GumpunIPTV",
-"author": "ใช้ชั่วคราว นะครับ",
-"image": "https://sv1.picz.in.th/images/2021/07/08/saBgvN.png",
-"url": "https://raw.githubusercontent.com/Gumpun/TV_Sports_GUMPUN/main/LICENSE",
-"stations": [
-                
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",  True​ Premie​r Football HD1
 https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f
