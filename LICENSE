@@ -4,148 +4,177 @@
 "image": "https://sv1.picz.in.th/images/2021/07/08/saBgvN.png",
 "url": "https://raw.githubusercontent.com/Gumpun/TV_Sports_GUMPUN/main/LICENSE",
 "stations": [
-                {
-              "name": "Premier HD1",
-               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-                "url": "https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8"       
-             },
-            {
-              "name": "Premier HD1 สำรอง",
-               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-                "url": "https://we-play.tv/watching/tv/true-premier-football-hd-1"       
-             },
-            {
-              "name": "Premier HD2",
-               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
-                "url": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8"       
-             },
-{
-              "name": "Premier HD2 สำรอง",
-               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
-                "url": "https://we-play.tv/watching/tv/true-premier-football-hd-2"       
-             },
+                
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",  True​ Premie​r Football HD1
+https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f
+ 
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport", True​ Premie​r Football HD2
+https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f
+ 
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",  True​ Premie​r Football HD3
+https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f
 
-    {
-              "name": "Premier HD3",
-               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
-                "url": "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8"       
-             },
-    {
-              "name": "Premier HD4",
-               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
-                "url": "https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8"       
-             },
-    
-  
-            {
-              "name": "Premier HD5",
-               "image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png",
-                "url": "https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8"       
-             },
-           
-    {
-              "name": "True Sport HD1",
-               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-                "url": "https://mediasv.online/tvchannel_x1/hd-tsport1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjEgMjo1NDo0MSBBTSZoYXNoX3ZhbHVlPXc3ZmRRR1pHS1VOcmpZZ1FpdjhWRFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNTM5ODE="       
-             },
-            {
-              "name": "True Sport HD2",
-               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
-                "url": "https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8"       
-             },
-            {
-              "name": "True Sport HD3",
-               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-                "url": "https://mediasv.online/tvchannel_x1/truesporthd3/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDIxIDEyOjIwOjE4IFBNJmhhc2hfdmFsdWU9M2V6L0VNLzB4aCtLaDVlVTRtWnYyUT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNSZpZD1jaF8zNzA0OA=="       
-             },
-    {
-              "name": "True Sport HD4",
-               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
-                "url": "https://sport.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8"       
-             },
-   
-    {
-              "name": "True Sport 5",
-               "image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png",
-                "url": "https://sport.livedoomovie.com/02_sport5_480p/chunklist.m3u8"       
-             },
-             {
-"name": "Fox Sports HD",
-"image": "https://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-hd",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 2",
-"image": "https://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-2",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 3",
-"image": "https://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-3",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg" group-title="Sport", ​ Premie​r Football HD4
+https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f
+ 
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg" group-title="Sport", ​ Premie​r Football HD5
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
-{
-"name": "Bein Sports 1 TH",
-"image": "http://homefile.ddns.net:8081/pic/be1.png",
-"url": "https://www.we-play.tv/watching/tv/bein-sports-1",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg" group-title="Sport",  True​ Premie​r Football HD1
+https://wacth.tv/tv-player/true-premuim-1-vkd80p04jvr0.html
+ 
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg" group-title="Sport",  True​ Premie​r Football HD2
+https://wacth.tv/tv-player/true-premuim-2-iyrpacvc8lk1.html
+ 
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg" group-title="Sport",  True​ Premie​r Football HD3
+https://wacth.tv/tv-player/true-premuim-3.html
 
-{
-"name": "Bein Sports 2 TH",  
-"image": "http://homefile.ddns.net:8081/pic/be2.png",  
-"url": "https://www.we-play.tv/watching/tv/bein-sports-2",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "DigiSport 1 RO",
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport1romania.png",
-"url": "https://www.warpfootball.games/live/?ch=digisport1romania"
-},
-{
-"name": "DigiSport 2 RO",
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport2romania.png",
-"url": "https://www.warpfootball.games/live/?ch=digisport2romania"
-},
-{
-"name": "DigiSport 3 RO",
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport3romania.png",
-"url": "https://www.warpfootball.games/live/?ch=digisport3romania"
-},
-{
-"name": "DigiSport 4 RO",
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport4romania.png",
-"url": "https://www.warpfootball.games/live/?ch=digisport4romania"
-},
-{
-"name": "NFL Network",
-"image": "https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz",
-"url": "https://we-play.tv/watching/tv/nfl-network",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Motor Vision",
-"image": "https://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
-"url": "https://we-play.tv/watching/tv/motor-vision",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg" group-title="Sport", ​ Premie​r Football HD4
+https://wacth.tv/tv-player/true-premuim-4.html
+ 
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg" group-title="Sport", ​ Premie​r Football HD5
+https://wacth.tv/tv-player/true-premuim-5.html
+ 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="Sport",  True​ ​Sports​ HD
+https://www.we-play.tv/watching/tv/true-sports-hd
 
-{"name": "support 2",
-	"image": "xxx",
-	"url": "https://pastebin.com/raw.php?i=SMTWrpds",
-"import": false
-},
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="Sport",  True​ ​Sports​ HD
+https://fo1iptv.com/tv-player/true-sport-1hd.html
 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="Sport",  True​ ​Sports​ HD2
+https://www.we-play.tv/watching/tv/true-sports-hd-2
+ 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="Sport",  True​ ​Sports​ HD2
+https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd2/
+
+ 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWdC9.png" group-title="Sport", True​ ​Sports HD3
+https://www.we-play.tv/watching/tv/true-sports-hd-3
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWdC9.png" group-title="Sport",True​ ​Sports HD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWStb.png" group-title="Sport",  True​ ​Sports HD4
+https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd4/
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWStb.png" group-title="Sport",  True​ ​Sports HD4
+#EXTINF:0, True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-tennis.png" group-title="Sport",  True Tennis HD
+https://www.we-play.tv/watching/tv/true-tennis
+ 
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/motorvision-tv.png" group-title="Sport", Motor Vision
+https://www.we-play.tv/watching/tv/motor-vision
+
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png",FIGHT SPORTS
+https://fo1iptv.com/tv-player/fight-sport.html
+
+#EXTINF:-1 logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Sport",FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 logo="https://i2.wp.com/vpn.review/wp-content/uploads/2018/12/How-to-Watch-Fite-TV-Anywhere-.jpg"group-title="Sport",FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/cU3T3OvaXwzj1SLM64AguujemwWr0oLjqCbRMm7l.png" group-title="Sport",NFL
+https://www.we-play.tv/watching/tv/nfl-network
+ 
+#EXTINF:-1 tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" group-title="Sport", 674. NBA TV HD
+https://fo1iptv.com/tv-player/nba-hd.html
+ 
+#EXTINF:-1 tvg-logo="https://fifa55u.com/images/icon/GolfChannel.png" group-title="Sport", 675. Golf Channel Thailand HD
+https://www.we-play.tv/watching/tv/golf-channel
+
+#EXTINF:-1  tvg-id="N/A" group-title="Sport" tvg-logo="https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",ONEGOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="Sport",  True​ ​Sports ​2
+https://www.we-play.tv/watching/tv/true-sports-2
+ 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sport",  True​ ​Sports ​5
+https://www.we-play.tv/watching/tv/true-sports-5
+ 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="Sport", True​ ​Sport​s 6
+https://www.we-play.tv/watching/tv/true-sports-6
+ 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Sport",True​ ​Sports ​7
+https://www.we-play.tv/watching/tv/true-sports-7
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703682.jpeg" group-title="Sport", 680. FOX​ Sports​ HD
+https://www.we-play.tv/watching/tv/fox-sports-hd
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703688.jpeg" group-title="Sport", 689. FOX​ Sports​ 2
+https://www.we-play.tv/watching/tv/fox-sports-2
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703695.jpeg" group-title="Sport", 690. FOX​ Sports​ 3
+https://www.we-play.tv/watching/tv/fox-sports-3
+ 
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/Y28OhM0EcKyWHkSJgbPiVfLjgSUj7Sp6OGAqAJ9l.png" group-title="Sport", bein1
+https://www.we-play.tv/watching/tv/bein-sports-1
+ 
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/ZNqp3mHYvSlFccLluO0Fa3I8A2duej5tHerrKhlN.png" group-title="Sport", bein2
+https://www.we-play.tv/watching/tv/bein-sports-2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLFQXh40/Astro-TVIQ.png" group-title="Sport",Astro SuperSport1
+https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmcb4rf66f
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLFQXh40/Astro-TVIQ.png" group-title="Sport",Astro SuperSport2
+https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmcb4rf66f
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLFQXh40/Astro-TVIQ.png," group-title="Sport",Astro SuperSport3
+https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmcb4rf66f
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLFQXh40/Astro-TVIQ.png" group-title="Sport",Astro SuperSport4
+https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/BTSport1HD.png" group-title="Sport",Sport BT1
+https://www.we-play.tv/watching/tv/bt-sport-1-hd
+
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/BTSport2HD.png" group-title="Sport",Sport BT2
+https://www.we-play.tv/watching/tv/bt-sport-2-hd
+
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/BTSport3HD.png" group-title="Sport",Sport BT3
+https://www.we-play.tv/watching/tv/bt-sport-3-hd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwqBNaaP_0YzxqwLgCnMBH-sKxuHiXEx0Kcg&usqp=CAU," group-title="Sport",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="Sport",Sport outside
+https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg" group-title="Sport",Redbull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV 5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/euro-sport-5r8ngg73mcyl.png" group-title="Sport",Eurosport 
+https://fo1iptv.com/tv-player/euro-sport.html
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s320/Eurosport+logo.png" group-title="Sport",Eurosport 2 HD
+http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=gelow74
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s320/Eurosport+logo.png" group-title="Sport",Eurosport 1 HD
+https://95-213-224-174.livesports24.online/eurosport1ru.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwqBNaaP_0YzxqwLgCnMBH-sKxuHiXEx0Kcg&usqp=CAU," group-title="Sport",ESPN
+https://gma2.blab.email/fs2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Sport",Edge Sport (US)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRiFhcOdJ61mDSOVy1flWMyuuehZgIxeLvRTQaXX4NLvpYnBz-z_rQLDXV1_Oz89IMDQ0&usqp=CAU" group-title="Sport", CCTV-5+HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sport",Sky Sports Premiere League
+https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Sport",Sky Sports Football
+https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-action.jpg" group-title="Sport",Sky Sports Action
+https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f
+ 
 ]
 }
